@@ -15,8 +15,8 @@
         Sander Valstar
     </author>
 
-    <gap:plugin name="org.apache.cordova.vibration" version="0.3.7" />
-    <gap:plugin name="org.apache.cordova.camera" version="0.3.7"/>
+    <gap:plugin name="org.apache.cordova.vibration" />
+    <gap:plugin name="org.apache.cordova.camera" />
 
 
     <feature name="http://api.phonegap.com/1.0/notification"/>
